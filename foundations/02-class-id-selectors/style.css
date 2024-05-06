@@ -1,0 +1,21 @@
+/* styles.css */
+
+p {
+    background-color: #f895a3;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+#cow {
+  color: blue;  
+  font-size: 36px;
+}
+
+.turkey {
+    font-size: 24px;
+}
+
+#monkey {
+    background-color: rgb(139, 234, 139);
+    font-weight: bold;
+    font-size: 24px;
+}
