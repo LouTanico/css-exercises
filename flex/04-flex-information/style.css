@@ -12,6 +12,30 @@ img {
   font-weight: 900;
 }
 
+.heading {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 32px;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.media-one,
+.media-two,
+.media-three,
+.media-four {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
